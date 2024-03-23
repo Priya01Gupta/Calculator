@@ -1,1 +1,1 @@
-# Calculator
+Calculus is a branch of mathematics that studies change and motion. It uses differentiation and integration to examine rates of change, the slope of a curve, and the accumulation of quantities. The main concepts of calculus are: Limits, Differential calculus (Differentiation), Integral calculus (Integration), and Multivariable calculus (Function theory).
